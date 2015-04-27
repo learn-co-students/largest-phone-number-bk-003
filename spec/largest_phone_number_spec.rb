@@ -38,7 +38,7 @@ describe "#largest_phone_number" do
     expect { largest_phone_number([]) }.to raise_error
   end
 
-  it "raises an error if passed empty array" do
+  it "raises an error if passed a non-array argument" do
     ["hi", :there, {:these => "aren't arrays"}, Set.new].each do |arg|
       expect { largest_phone_number(arg) }.to raise_error
     end
