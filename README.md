@@ -1,8 +1,4 @@
----
-tags: logic, cs, todo, custom methods
-languages: ruby
-resources: 1
----
+
 
 # Largest Phone Number
 
