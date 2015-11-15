@@ -1,6 +1,3 @@
-require 'pry'
-# your #largest_phone_number method goes here
-
 def largest_phone_number(arr)
 	raise "error" if (arr.size == 0 || !arr.is_a?(Array))
 
