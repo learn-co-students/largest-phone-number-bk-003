@@ -27,3 +27,5 @@ largest_phone_number(['123-456-7899'])
 
 * [#split](http://ruby-doc.org/core-2.1.4/String.html#method-i-split)
 * [#gsub](http://ruby-doc.org/core-2.1.4/String.html#method-i-gsub)
+
+<a href='https://learn.co/lessons/largest-phone-number' data-visibility='hidden'>View this lesson on Learn.co</a>
